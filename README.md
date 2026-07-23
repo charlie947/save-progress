@@ -1,4 +1,6 @@
-# save progress
+<p align="center">
+  <img src="assets/banner.png" alt="save progress — a Claude skill that stops your AI forgetting every correction you give it" width="860">
+</p>
 
 **A Claude skill that stops your AI forgetting every correction you give it.**
 
